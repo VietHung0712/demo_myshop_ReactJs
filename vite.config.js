@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: 'demo_myshop_ReactJs',
+  base: '/demo_myshop_ReactJs/',
   plugins: [react()],
 })
