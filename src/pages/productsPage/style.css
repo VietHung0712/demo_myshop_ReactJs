@@ -1,0 +1,22 @@
+.ctr__body {
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+    a {
+        position: relative;
+        display: block;
+        height: 300px;
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+
+        p {
+            color: white;
+            position: absolute;
+            bottom: 0;
+            width: 100%;
+            text-align: center;
+            background-image: linear-gradient(to right, #00000000, #595959, #00000000);
+        }
+    }
+}

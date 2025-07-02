@@ -1,0 +1,14 @@
+.footer {
+    background-color: var(--main-);
+    ul {
+        flex-direction: column;
+
+        a {
+            color: #000;
+        }
+    }
+
+    .footer__about_logo {
+        color: #fff;
+    }
+}

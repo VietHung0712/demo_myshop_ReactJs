@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Pork",
+        "bgImg": "pork.webp",
+        "path": "pork",
+        "price": "5.99"
+    },
+    {
+        "name": "Beef",
+        "bgImg": "beef.webp",
+        "path": "beef",
+        "price": "9.49"
+    },
+    {
+        "name": "Chicken",
+        "bgImg": "chicken.jpg",
+        "path": "chicken",
+        "price": "4.79"
+    },
+    {
+        "name": "Salmon",
+        "bgImg": "salmon.webp",
+        "path": "salmon",
+        "price": "12.99"
+    },
+    {
+        "name": "Broccoli",
+        "bgImg": "broccoli.webp",
+        "path": "broccoli",
+        "price": "2.50"
+    },
+    {
+        "name": "Carrot",
+        "bgImg": "carrot.webp",
+        "path": "carrot",
+        "price": "1.90"
+    },
+    {
+        "name": "Lettuce",
+        "bgImg": "lettuce.webp",
+        "path": "lettuce",
+        "price": "1.25"
+    },
+    {
+        "name": "Potato",
+        "bgImg": "potato.webp",
+        "path": "potato",
+        "price": "2.10"
+    }
+]
