@@ -15,7 +15,7 @@ const Header = () => {
             path: ROUTERS.HOME
         },
         {
-            name: "Product",
+            name: "Products",
             path: ROUTERS.PRODUCTS,
             isShowSubMenu: false,
             child: [
